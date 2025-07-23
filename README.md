@@ -25,8 +25,8 @@ CineMate is a simple and elegant Movie Explorer app built with **React Native CL
 
 ## 📸 Screenshots
 
-| Home Screen | Search in Action | Movie Details |
-|-------------|------------------|----------------|
+| Home Screen  | Movie Details |
+|-------------|----------------|
 | ![Home](https://github.com/sushantdwivedi/CineMate/blob/main/src/assets/screenshots/HomeScreen.jpeg?raw=true) | ![Details](https://github.com/sushantdwivedi/CineMate/blob/main/src/assets/screenshots/DetailScreen.jpeg?raw=true) |
 
 
