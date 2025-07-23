@@ -1,6 +1,5 @@
 # 🎬 CineMate
- ![CineMate](https://github.com/sushantdwivedi/CineMate/blob/main/src/assets/screenshots/CineMateLogo.png?raw=true) |
-
+ ![CineMate](https://github.com/sushantdwivedi/CineMate/blob/main/src/assets/screenshots/CineMateLogo.png?raw=true)
 CineMate is a simple and elegant Movie Explorer app built with **React Native CLI** (without Expo) using **TypeScript** and **Redux Toolkit**. The app allows users to browse a list of popular movies, view detailed information, and manage a list of favorite movies — with full support for **Android**.
 
 ---
