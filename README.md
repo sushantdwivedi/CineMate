@@ -166,4 +166,4 @@ This project is for educational/recruitment purposes and not intended for produc
 ### Contact
 Made with ❤️ by Sushant Dwivedi
 
-GitHub: @sushantdwivedi#
+GitHub: @sushantdwivedi
