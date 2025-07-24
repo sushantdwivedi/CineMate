@@ -54,15 +54,16 @@ npm install
  ### Add Environment Variables
  ### Create a .env file in the root:
 
+```bash
 API_URL=https://api.themoviedb.org/3
-
 TMDB_BEARER=YOUR_TMDB_BEARER_TOKEN
-
+```
 
 
 ### Run on Android
+```bash
 npx react-native run-android
-
+```
 
 
 ### Tech Stack
