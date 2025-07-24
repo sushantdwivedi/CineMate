@@ -42,11 +42,11 @@ CineMate is a simple and elegant Movie Explorer app built with **React Native CL
 
 ### Clone & Setup
 
-bash
+```bash
 git clone https://github.com/sushantdwivedi/CineMate.git
 cd CineMate
 npm install
-
+```
 
 
 ---
@@ -55,6 +55,7 @@ npm install
  ### Create a .env file in the root:
 
 API_URL=https://api.themoviedb.org/3
+
 TMDB_BEARER=YOUR_TMDB_BEARER_TOKEN
 
 
@@ -85,6 +86,7 @@ react-native-vector-icons — Icons used across the UI
 
 ### Folder Structure
 
+```text
 src/
 ├── components/         # Reusable UI components (MovieCard, FavoriteButton, SearchBar)
 ├── screens/            # HomeScreen and MovieDetailScreen
@@ -92,6 +94,7 @@ src/
 ├── services/           # API service (fetchPopularMovies)
 ├── types/              # Type definitions (e.g., Movie type)
 App.tsx                 # Root component with navigation
+```
 
 
 
