@@ -98,23 +98,23 @@ App.tsx                 # Root component with navigation
 
 
 
-### State Management Overview
-Movies Slice (redux/slices/moviesSlice.ts)
-Handles fetching and storing popular movies
+### 📦 State Management Overview
 
-Supports real-time search via searchQuery state
+**🧠 Movies Slice** (`redux/slices/moviesSlice.ts`)  
+- Fetches and stores popular movies  
+- Supports real-time search via `searchQuery` state  
 
-Favorites Slice (redux/slices/favoritesSlice.ts)
-Manages list of favorite movies
+**⭐ Favorites Slice** (`redux/slices/favoritesSlice.ts`)  
+- Manages the list of favorite movies  
+- Handles add/remove actions  
+- Persists data using `redux-persist`  
 
-Handles add/remove and persists favorites using redux-persist
-
-Selectors:
-
+**🧰 Selectors**
+```ts
 selectFavoritesList(state: RootState)
 selectIsFavorite(state: RootState, movieId: number)
 selectMoviesList(state: RootState)
-
+```
 
 
 
